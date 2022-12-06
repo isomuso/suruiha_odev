@@ -15,4 +15,5 @@ yukarıdaki komut ile cpp ve python dosyasını aynı anda çalıştırabilirsin
 Sonuç almak için ödevi yapın.
 
 launch dosyasının hata vermesi durumunda paketin içindeki src ve launch klasörünün içindeki dosyaları executable yapmanız gerekebilir.
+python hatası alıyor iseniz python dosyasındaki ilk satırda bulunan #usr/bin/env python kodunu #usr/bin/env python3 yapmanız gerekebilir. 
 
