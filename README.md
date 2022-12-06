@@ -14,3 +14,5 @@ roslaunch suruiha_odev iha.launch
 yukarıdaki komut ile cpp ve python dosyasını aynı anda çalıştırabilirsiniz. İlk başta terminale hiçbir şey basmayacak.
 Sonuç almak için ödevi yapın.
 
+launch dosyasının hata vermesi durumunda paketin içindeki src ve launch klasörünün içindeki dosyaları executable yapmanız gerekebilir.
+
